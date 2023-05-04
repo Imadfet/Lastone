@@ -7,7 +7,7 @@ public class LastDevApplication {
 
     public static void main(String[] args) {
         System.out.println("it 's the first");
-        System.out.println("it 's the second");
+        System.out.println("it's the second");
     }
 
 }
